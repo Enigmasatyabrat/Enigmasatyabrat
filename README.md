@@ -1,6 +1,6 @@
 # Satyabrat Mishra
 
-*B.Tech CSE (Artificial Intelligence & Machine Learning), ITM GIDA, Gorakhpur*
+*B.Tech CSE (Artificial Intelligence & Machine Learning)*
 
 I build practical engineering systems that combine software, AI/ML, and real-world data.
 
@@ -61,7 +61,7 @@ CLI tool that scores, sorts, and prepares photography for stock marketplaces end
 
 ### Current direction
 
-Geospatial and environmental AI systems: models that hold up against real, biased, incomplete field data rather than clean benchmarks.
+Building AI/ML systems that connect software with real-world data, with a growing focus on geospatial and environmental intelligence.
 
 ---
 
