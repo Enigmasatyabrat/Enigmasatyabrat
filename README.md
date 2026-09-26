@@ -43,7 +43,7 @@ CLI tool that scores, sorts, and prepares photography for stock marketplaces end
 - Measures real technical quality (sharpness, noise, exposure, contrast) with NumPy before a vision model judges commercial prospects: measurement first, model opinion second
 - Resumable and crash-safe: journals every file move, tracks pending work across interrupted runs
 - Threshold calibration against your own accepted/rejected photo history, not hardcoded defaults
-- 8 tagged releases, changelog, roadmap, and a test suite that runs with no API key and no network
+- 10 tagged releases, changelog, roadmap, and a test suite that runs with no API key and no network
 
 ---
 
